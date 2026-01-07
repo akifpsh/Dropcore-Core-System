@@ -2,10 +2,6 @@
 
 This repository showcases the core architectural systems developed for **Dropcore**, a fast-paced multiplayer action game built with **Unity** and **Photon PUN 2**. 
 
-# [Dropcore Multiplayer Core Architecture]
-![Dropcore Logo](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3726110/header.jpg) 
-> *A professional, scalable multiplayer framework built for a fast-paced Steam title.*
-
 The focus of this project is to demonstrate scalable C# patterns, network optimization, and decoupled gameplay systems.
 
 ## 🛠 Technical Highlights
@@ -40,6 +36,10 @@ The focus of this project is to demonstrate scalable C# patterns, network optimi
 | **Official Trailer** | [![YouTube Trailer](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=GU3rE3IBlYo) |
 
 ---
+
+
+<img width="920" height="430" alt="LibraryHeader" src="https://github.com/user-attachments/assets/25ffd4aa-76f7-4653-a0d9-962c682c7130" />
+
 
 ## 📜 License
 This project is licensed under the MIT License - feel free to use these patterns in your own projects.
